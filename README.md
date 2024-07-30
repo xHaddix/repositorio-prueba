@@ -1,5 +1,5 @@
-# repositorio-prueba
+# Titulo
 Primer repositorio creado en Git Hub
 
-##descripción
+## descripción
 Curso de GitHub
