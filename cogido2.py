@@ -1,2 +1,2 @@
- nombre = "jorgita"
+nombre = "jorgita"
 print("Hola" + nombre)
